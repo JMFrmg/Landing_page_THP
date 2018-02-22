@@ -15,6 +15,7 @@ gem 'jbuilder'
 gem 'bootstrap-sass'
 gem 'mailchimp-api'
 gem 'gibbon'
+gem 'json'
 
 group :development, :test do
   #gem 'sqlite3'
